@@ -1,0 +1,13 @@
+#+TITLE: 一起读书吧
+
+#+begin_quote
+为天地立心，为生民立命；为往圣继绝学，为万世开太平。
+#+end_quote
+
+* 已读
+
+- [[file:chinese-history/README.org][中国历史]]
+
+* 未读
+
+https://github.com/zhangjie2012/reading/issues
