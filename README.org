@@ -1,12 +1,17 @@
+#+TITLE: 一起读书吧
+
 #+begin_quote
 为天地立心，为生民立命；为往圣继绝学，为万世开太平。
 #+end_quote
 
-*已读*
-
-- [[file:chinese-history/README.org][中国历史]]
-  + [[file:chinese-history/二月河-康雍乾系列.org][二月河：康雍乾帝王系列]]
-
-*未读*
+* 待读列表
 
 https://github.com/zhangjie2012/reading/issues
+
+* 已读大纲
+
+[[file:chinese-history/README.org][中国历史]]
+
+* 笔记
+
+- <2024-02-04 Sun> [[file:chinese-history/二月河-康雍乾系列.org][二月河：康雍乾帝王系列]]
