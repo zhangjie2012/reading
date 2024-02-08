@@ -4,13 +4,20 @@
 为天地立心，为生民立命；为往圣继绝学，为万世开太平。
 #+end_quote
 
+** 阅读大纲
+
+/只记录 2019 年之后读完的书，按优先级排序。/
+
+1. [ ] [[file:chinese-history/README.org][中国历史]]
+2. [ ] [[file:chinese-literature/README.org][中国文学]]
+3. [ ] [[file:world-history/README.org][世界历史]]
+4. [ ] 国外文学
+
 ** 待读列表
 
 https://github.com/zhangjie2012/reading/issues
 
-** 已读大纲
-
-[[file:chinese-history/README.org][中国历史]]
+标签规则：L1 按照大纲标注，L2 按照大纲中的目录。
 
 ** 笔记
 
