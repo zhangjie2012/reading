@@ -17,7 +17,9 @@
 
 https://github.com/zhangjie2012/reading/issues
 
-标签规则：L1 按照大纲标注，L2 按照大纲中的目录。
+标签规则：
+- =L1-= 对应大纲
+- =L2-= 对应子模块分类
 
 ** 笔记
 
