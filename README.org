@@ -24,3 +24,4 @@ https://github.com/zhangjie2012/reading/issues
 ** 笔记
 
 - <2024-02-04 Sun> [[file:chinese-history/二月河-康雍乾系列.org][二月河：康雍乾帝王系列]]
+- <2024-02-25 Sun> [[file:chinese-history/许倬云-经纬华夏.org][许倬云：经纬华夏]]
