@@ -4,6 +4,11 @@
 为天地立心，为生民立命；为往圣继绝学，为万世开太平。
 #+end_quote
 
+** 编排：下一本读
+
+- 大变局：晚清改革五十年
+- 甲午战争前后之晚清政局
+
 ** 阅读大纲
 
 /只记录 2019 年之后读完的书，按优先级排序。每天阅读 30m 以上 。/
@@ -23,6 +28,7 @@ https://github.com/zhangjie2012/reading/issues
 
 ** 笔记
 
+- <2024-03-19 Tue> [[file:chinese-history/魏斐德-洪业-清朝开国史.org][[美国] 魏斐德：洪业：清朝开国史]]
 - <2024-02-04 Sun> [[file:chinese-history/二月河-康雍乾系列.org][二月河：康雍乾帝王系列]]
 - <2024-02-25 Sun> [[file:chinese-history/许倬云-经纬华夏.org][许倬云：经纬华夏]]
 - <2024-03-03 Sun> [[file:chinese-history/张宏杰-饥饿的盛世.org][张宏杰：饥饿的盛世]]
