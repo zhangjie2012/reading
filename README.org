@@ -6,8 +6,8 @@
 
 ** 编排：下一本读
 
-- 大变局：晚清改革五十年
 - 甲午战争前后之晚清政局
+- 一寸山河一寸血
 
 ** 阅读大纲
 
@@ -28,6 +28,7 @@ https://github.com/zhangjie2012/reading/issues
 
 ** 笔记
 
+- <2024-04-15 Mon> [[file:chinese-history/谌旭彬-大变局.org][谌旭彬：大变局：晚清改革五十年]]
 - <2024-03-19 Tue> [[file:chinese-history/魏斐德-洪业-清朝开国史.org][美国·魏斐德：洪业：清朝开国史]]
 - <2024-02-04 Sun> [[file:chinese-history/二月河-康雍乾系列.org][二月河：康雍乾帝王系列]]
 - <2024-02-25 Sun> [[file:chinese-history/许倬云-经纬华夏.org][许倬云：经纬华夏]]
