@@ -6,10 +6,9 @@
 
 **只记录 2019 年之后读完的书，按优先级排序。每天阅读 30m 以上 。**
 
-1. [ ] [中国历史-entry](中国历史-entry.md)
-2. [ ] [中国文学](中国文学-entry.md)
-3. [ ] [世界历史](world-history/README.md)
-4. [ ] 国外文学
+1. [ ] [中国历史](./chinese-history/中国历史-entry.md)
+2. [ ] [中国文学](./chinese-literature/中国文学-entry.md)
+3. [ ] [世界历史](./world-history/世界历史-entry.md)
 
 ## 待读列表
 
