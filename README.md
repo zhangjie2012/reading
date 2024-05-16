@@ -14,15 +14,21 @@
 
 <https://github.com/zhangjie2012/reading/issues>
 
-标签规则：
+Label 规则：
 
-- `L1-` 对应大纲
-- `L2-` 对应子模块分类
+- `L1-` 对应上方阅读大纲，如 `L1-中国历史`
+- `L2-` 对应大纲中的细分模块，如 `L2-清朝`
+- `L3-/L4-` 按需继续细分
+
+读完时：
+
+1. 评论添加`2024-05-16 读完第一遍`，然后关闭
+2. 给 issue 添加 `2024 读完` 的额外 Label
 
 ## 如何阅读一本书
 
 1. 阅读前：从 issues 中选择一本想读的（如无例外，豆瓣评分低于 8.0 的书，不读）
-2. 阅读中
+2. 阅读中：
    1. 读：求质不求量。感兴趣就慢慢读，觉得不值得读立即放弃，见 `3.1.1`
    2. 记：对感兴趣的内容标记
    3. 问：不懂的内容，搜一搜
@@ -41,3 +47,8 @@
 - 2024-02-04: [二月河：康雍乾帝王系列](chinese-history/二月河-康雍乾系列.md)
 - 2024-02-25: [许倬云：经纬华夏](chinese-history/许倬云-经纬华夏.md)
 - 2024-03-03: [张宏杰：饥饿的盛世](chinese-history/张宏杰-饥饿的盛世.md)
+
+## 其他
+
+- [Github markdown 语法](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [中文博客写作风格指南](https://www.zhangjiee.com/blog/2018/blog-style-guide.html)
