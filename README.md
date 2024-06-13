@@ -10,6 +10,8 @@
 2. [ ] [中国文学](./chinese-literature/中国文学-entry.md)
 3. [ ] [世界历史](./world-history/世界历史-entry.md)
 
+评价：神作 -> 优秀 -> 尚可 -> 一般。
+
 ## 待读列表
 
 <https://github.com/zhangjie2012/reading/issues>
