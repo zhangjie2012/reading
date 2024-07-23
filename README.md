@@ -44,6 +44,7 @@ Label 规则：
 
 ## 笔记
 
+- 2024-07-23: [读完《失败者的春秋》和《战国歧途》](https://mp.weixin.qq.com/s/Rhd3Ww6_1qIV4U9gqo7pEg)
 - 2024-06-04: [江城：历史深处的民国](chinese-history/江城-历史深处的民国.md)
 - 2024-05-16: [关河五十州：一寸河山一寸血](chinese-history/关河五十州-一寸河山一寸血.md)
 - 2024-04-15: [谌旭彬：大变局：晚清改革五十年](chinese-history/谌旭彬-大变局.md)
