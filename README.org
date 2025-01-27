@@ -1,0 +1,19 @@
+* 阅读
+
+#+begin_quote
+为天地立心，为生民立命；为往圣继绝学，为万世开太平。
+#+end_quote
+
+** Spec
+
+- [[https://github.com/zhangjie2012/reading/issues][TODO & DONE issues]]
+  - Labels 规则
+    + L1 -> L2 -> L3 -> L4 按照分类细分
+    + 读完按时间标记，类似 =2024 读完=
+- 评价：神作 -> 优秀 -> 尚可 -> 一般。
+
+** Checklist
+
+- [[./中国历史.org][中国历史]]
+- [[./中国文学.org][中国文学]]
+- [[./世界历史.org][世界历史]]
