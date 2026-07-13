@@ -5,8 +5,8 @@
 - [TODO & DONE issues](https://github.com/zhangjie2012/reading/issues)
   - Labels 规则
     - L1 -> L2 -> L3 -> L4 按照分类细分
-    - 读完按时间标记，类似 `2024 读完`
-- 评价：神作 -> 优秀 -> 尚可 -> 一般。
+    - 读完按时间标记，使用 `YYYY`、`YYYY-MM` 或 `YYYY-MM-DD`，类似 `2024-06 读完`
+- 评价：神作 -> 优秀 -> 尚可 -> 一般；未评价统一使用 `-`。
 
 
 **Methodology：**
